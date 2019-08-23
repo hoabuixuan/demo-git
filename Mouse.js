@@ -3,3 +3,5 @@ function Mouse() {
     document.write('name')
 
 }
+
+module.exports = Mouse;
