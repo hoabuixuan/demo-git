@@ -1,3 +1,5 @@
 function Mouse() {
-    document.write('chip chip')
+    var name = 'chip chip'
+    document.write('name')
+
 }
